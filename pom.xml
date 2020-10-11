@@ -208,6 +208,8 @@
   <scala.version>2.12.10</scala.version>
   <scala.binary.version>2.12</scala.binary.version>
   <spark.version>3.0.1</spark.version>
+  <maven.compiler.target>1.8</maven.compiler.target>
+  <maven.compiler.source>1.8</maven.compiler.source>
 </properties>
 
 <dependencies>
